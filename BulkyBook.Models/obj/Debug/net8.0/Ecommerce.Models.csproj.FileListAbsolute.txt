@@ -1,0 +1,12 @@
+D:\Projects\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\ECommerce.Models.deps.json
+D:\Projects\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\ECommerce.Models.dll
+D:\Projects\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\ECommerce.Models.pdb
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfoInputs.cache
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfo.cs
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.dll
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\refint\ECommerce.Models.dll
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.pdb
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ref\ECommerce.Models.dll
+D:\Projects\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ECommerce.Models.sourcelink.json

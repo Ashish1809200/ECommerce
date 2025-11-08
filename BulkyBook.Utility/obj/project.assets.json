@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "D:\\Projects\\Ecommerce\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "D:\\Projects\\Ecommerce\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\Ashish\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\obj\\",
+      "outputPath": "D:\\Projects\\Ecommerce\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

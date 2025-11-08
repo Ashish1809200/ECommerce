@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\BulkyBook.Utility.csproj",
-      "projectName": "BulkyBook.Utility",
-      "projectPath": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "D:\\Projects\\Ecommerce\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "D:\\Projects\\Ecommerce\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Ashish\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Ecommerce\\Ecommerce.Utility\\obj\\",
+      "outputPath": "D:\\Projects\\Ecommerce\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -74,6 +74,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

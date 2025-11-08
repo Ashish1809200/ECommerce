@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Ecommerce\\Ecommerce.Models\\ECommerce.Models.csproj",
-      "projectName": "ECommerce.Models",
-      "projectPath": "D:\\Projects\\Ecommerce\\Ecommerce.Models\\ECommerce.Models.csproj",
+      "projectUniqueName": "D:\\Projects\\Ecommerce\\Ecommerce.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "D:\\Projects\\Ecommerce\\Ecommerce.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Ashish\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Ecommerce\\Ecommerce.Models\\obj\\",
       "projectStyle": "PackageReference",
